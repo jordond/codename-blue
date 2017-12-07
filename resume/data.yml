@@ -1,0 +1,47 @@
+/* #*/ export const PERSON = `
+name:
+  first: Jordon
+  middle:
+  last: de Hoog
+about: Hi, my name is Jordon de Hoog.
+position: Software Developer
+
+birth:
+  year: 1991
+  location: London Ontario
+
+experience:
+- company: Cineplex Digital Media
+  position: Application Developer
+  timeperiod: since June 2016
+  description: Creating digital menuboards for clients such as Tim Hortons, Chick-fil-A, and A&W.  I developed tools and processes to automate workload and save developer time.
+
+- company: Pulse InfoFrame
+  position: Web Developer
+  timeperiod: January 2015 - October 2015
+  description: Developed and worked on Web Applications for the heathcare sector.  Focused mainly on Laravel (PHP), HTML/CSS, and Javascript.
+
+education:
+- degree: Advanced Diploma
+  timeperiod: Fall 2011 - December 2014
+  description: Computer Programming Analyst, Fanshawe College, London, Canada.
+
+# skill level goes 0 to 100
+skills:
+- name: HTML5
+- name: CSS3
+- name: JavaScript
+- name: Android
+- name: Node.js
+- name: TypeScript
+- name: React
+knowledge: Stuff
+
+contact:
+  email: jordon.dehoog@gmail.com
+  phone: 519 641 9388
+  street: 239 Goddard Blvd
+  city: London Ontario
+  github: jordond
+lang: en
+`
